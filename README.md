@@ -90,15 +90,6 @@ I'm a **Data Analyst** passionate about transforming messy datasets into clean, 
       </p>
       <a href="https://github.com/HeyitzSahil">📌 View Project →</a>
     </td>
-    <td width="50%">
-      <h3>📦 Inventory Management System</h3>
-      <p>A comprehensive inventory tracking solution designed to manage stock levels, orders, and product data efficiently using Python and database integration.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-      </p>
-      <a href="https://github.com/HeyitzSahil">📌 View Project →</a>
-    </td>
   </tr>
 </table>
 
